@@ -1,0 +1,299 @@
+{ "pid": 38493, "tid": 34359738368, "ph": "M", "name": "thread_name", "args": { "name": "ReadEntireBinlogFromIpcAsync" } },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564410514, "dur": 24380, "ph": "X", "name": "WaitForConnectionAsync", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564434896, "dur": 74789, "ph": "X", "name": "UpdateFromStreamAsync", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564434928, "dur": 134, "ph": "X", "name": "ReadAsync 0", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564435071, "dur": 12, "ph": "X", "name": "ProcessMessages 63", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564435084, "dur": 1583, "ph": "X", "name": "ReadAsync 63", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564436670, "dur": 2, "ph": "X", "name": "ProcessMessages 2604", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564436673, "dur": 200, "ph": "X", "name": "ReadAsync 2604", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564436876, "dur": 2, "ph": "X", "name": "ProcessMessages 1977", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564436879, "dur": 185, "ph": "X", "name": "ReadAsync 1977", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437068, "dur": 1, "ph": "X", "name": "ProcessMessages 1851", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437071, "dur": 255, "ph": "X", "name": "ReadAsync 1851", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437329, "dur": 3, "ph": "X", "name": "ProcessMessages 3415", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437334, "dur": 194, "ph": "X", "name": "ReadAsync 3415", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437532, "dur": 2, "ph": "X", "name": "ProcessMessages 2327", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437535, "dur": 147, "ph": "X", "name": "ReadAsync 2327", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437685, "dur": 2, "ph": "X", "name": "ProcessMessages 2150", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437689, "dur": 126, "ph": "X", "name": "ReadAsync 2150", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437818, "dur": 1, "ph": "X", "name": "ProcessMessages 1531", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437820, "dur": 79, "ph": "X", "name": "ReadAsync 1531", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437900, "dur": 1, "ph": "X", "name": "ProcessMessages 1142", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437902, "dur": 76, "ph": "X", "name": "ReadAsync 1142", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437980, "dur": 1, "ph": "X", "name": "ProcessMessages 1048", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564437982, "dur": 51, "ph": "X", "name": "ReadAsync 1048", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438035, "dur": 54, "ph": "X", "name": "ReadAsync 716", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438091, "dur": 3, "ph": "X", "name": "ProcessMessages 723", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438095, "dur": 64, "ph": "X", "name": "ReadAsync 723", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438169, "dur": 1, "ph": "X", "name": "ProcessMessages 889", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438171, "dur": 98, "ph": "X", "name": "ReadAsync 889", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438271, "dur": 1, "ph": "X", "name": "ProcessMessages 1460", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438273, "dur": 74, "ph": "X", "name": "ReadAsync 1460", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438350, "dur": 142, "ph": "X", "name": "ReadAsync 1067", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438494, "dur": 1, "ph": "X", "name": "ProcessMessages 1685", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438496, "dur": 64, "ph": "X", "name": "ReadAsync 1685", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438561, "dur": 1, "ph": "X", "name": "ProcessMessages 862", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438563, "dur": 69, "ph": "X", "name": "ReadAsync 862", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438634, "dur": 1, "ph": "X", "name": "ProcessMessages 695", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438640, "dur": 67, "ph": "X", "name": "ReadAsync 695", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438708, "dur": 1, "ph": "X", "name": "ProcessMessages 985", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438709, "dur": 64, "ph": "X", "name": "ReadAsync 985", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438784, "dur": 1, "ph": "X", "name": "ProcessMessages 672", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438786, "dur": 62, "ph": "X", "name": "ReadAsync 672", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438851, "dur": 52, "ph": "X", "name": "ReadAsync 824", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438906, "dur": 50, "ph": "X", "name": "ReadAsync 713", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438958, "dur": 1, "ph": "X", "name": "ProcessMessages 515", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564438960, "dur": 43, "ph": "X", "name": "ReadAsync 515", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439005, "dur": 40, "ph": "X", "name": "ReadAsync 418", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439048, "dur": 40, "ph": "X", "name": "ReadAsync 476", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439091, "dur": 73, "ph": "X", "name": "ReadAsync 541", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439167, "dur": 55, "ph": "X", "name": "ReadAsync 807", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439224, "dur": 64, "ph": "X", "name": "ReadAsync 594", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439290, "dur": 1, "ph": "X", "name": "ProcessMessages 638", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439291, "dur": 40, "ph": "X", "name": "ReadAsync 638", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439333, "dur": 56, "ph": "X", "name": "ReadAsync 530", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439393, "dur": 45, "ph": "X", "name": "ReadAsync 665", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439440, "dur": 58, "ph": "X", "name": "ReadAsync 562", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439503, "dur": 31, "ph": "X", "name": "ReadAsync 870", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439536, "dur": 60, "ph": "X", "name": "ReadAsync 301", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439599, "dur": 40, "ph": "X", "name": "ReadAsync 797", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439641, "dur": 45, "ph": "X", "name": "ReadAsync 600", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439689, "dur": 54, "ph": "X", "name": "ReadAsync 570", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439745, "dur": 40, "ph": "X", "name": "ReadAsync 663", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439787, "dur": 38, "ph": "X", "name": "ReadAsync 561", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439827, "dur": 43, "ph": "X", "name": "ReadAsync 447", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439872, "dur": 28, "ph": "X", "name": "ReadAsync 468", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564439901, "dur": 621, "ph": "X", "name": "ReadAsync 199", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440524, "dur": 1, "ph": "X", "name": "ProcessMessages 16", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440526, "dur": 49, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440581, "dur": 1, "ph": "X", "name": "ProcessMessages 92", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440583, "dur": 58, "ph": "X", "name": "ReadAsync 92", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440644, "dur": 1, "ph": "X", "name": "ProcessMessages 100", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440646, "dur": 70, "ph": "X", "name": "ReadAsync 100", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440719, "dur": 1, "ph": "X", "name": "ProcessMessages 224", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440721, "dur": 55, "ph": "X", "name": "ReadAsync 224", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440779, "dur": 1, "ph": "X", "name": "ProcessMessages 268", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440782, "dur": 42, "ph": "X", "name": "ReadAsync 268", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440827, "dur": 50, "ph": "X", "name": "ReadAsync 132", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440880, "dur": 1, "ph": "X", "name": "ProcessMessages 208", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440881, "dur": 31, "ph": "X", "name": "ReadAsync 208", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440918, "dur": 40, "ph": "X", "name": "ReadAsync 96", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440959, "dur": 1, "ph": "X", "name": "ProcessMessages 160", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564440960, "dur": 42, "ph": "X", "name": "ReadAsync 160", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441006, "dur": 37, "ph": "X", "name": "ReadAsync 112", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441044, "dur": 1, "ph": "X", "name": "ProcessMessages 176", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441046, "dur": 46, "ph": "X", "name": "ReadAsync 176", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441094, "dur": 1, "ph": "X", "name": "ProcessMessages 192", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441096, "dur": 42, "ph": "X", "name": "ReadAsync 192", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441144, "dur": 1, "ph": "X", "name": "ProcessMessages 176", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441145, "dur": 28, "ph": "X", "name": "ReadAsync 176", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441176, "dur": 38, "ph": "X", "name": "ReadAsync 92", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441217, "dur": 1, "ph": "X", "name": "ProcessMessages 68", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441220, "dur": 104, "ph": "X", "name": "ReadAsync 68", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441326, "dur": 1, "ph": "X", "name": "ProcessMessages 196", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441328, "dur": 45, "ph": "X", "name": "ReadAsync 196", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441375, "dur": 5, "ph": "X", "name": "ProcessMessages 16", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441382, "dur": 195, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441579, "dur": 310, "ph": "X", "name": "ProcessMessages 62", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441892, "dur": 38, "ph": "X", "name": "ReadAsync 62", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564441933, "dur": 63999, "ph": "X", "name": "ReadAsync 20", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564505946, "dur": 10, "ph": "X", "name": "ProcessMessages 510", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564505958, "dur": 457, "ph": "X", "name": "ReadAsync 510", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564506417, "dur": 1, "ph": "X", "name": "ProcessMessages 20", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564506419, "dur": 158, "ph": "X", "name": "ReadAsync 20", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564506581, "dur": 11, "ph": "X", "name": "ProcessMessages 62", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564506593, "dur": 233, "ph": "X", "name": "ReadAsync 62", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564506829, "dur": 1, "ph": "X", "name": "ProcessMessages 25", "args": {} },
+{ "pid": 38493, "tid": 34359738368, "ts": 1736099564506831, "dur": 2852, "ph": "X", "name": "ReadAsync 25", "args": {} },
+{ "pid": 38493, "tid": 93, "ts": 1736099564510277, "dur": 207, "ph": "X", "name": "ReadEntireBinlogFromIpcAsync", "args": {} },
+{ "pid": 38493, "tid": 30064771072, "ph": "M", "name": "thread_name", "args": { "name": "BuildAsync" } },
+{ "pid": 38493, "tid": 30064771072, "ts": 1736099564386824, "dur": 123031, "ph": "X", "name": "RunBackend", "args": {} },
+{ "pid": 38493, "tid": 30064771072, "ts": 1736099564386963, "dur": 23124, "ph": "X", "name": "BackendProgram.Start", "args": {} },
+{ "pid": 38493, "tid": 30064771072, "ts": 1736099564509857, "dur": 154, "ph": "X", "name": "await WaitForAndApplyScriptUpdaters", "args": {} },
+{ "pid": 38493, "tid": 30064771072, "ts": 1736099564510013, "dur": 1, "ph": "X", "name": "await taskToReadBuildProgramOutput", "args": {} },
+{ "pid": 38493, "tid": 93, "ts": 1736099564510494, "dur": 6, "ph": "X", "name": "BuildAsync", "args": {} },
+{ "pid": 38493, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 38493, "tid": 1, "ts": 1736099564361037, "dur": 1556, "ph": "X", "name": "<Add>b__0", "args": {} },
+{ "pid": 38493, "tid": 1, "ts": 1736099564362598, "dur": 23355, "ph": "X", "name": "<SetupBuildRequest>b__0", "args": {} },
+{ "pid": 38493, "tid": 1, "ts": 1736099564385955, "dur": 848, "ph": "X", "name": "WriteJson", "args": {} },
+{ "pid": 38493, "tid": 93, "ts": 1736099564510501, "dur": 8, "ph": "X", "name": "", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1736099564435277, "dur":1469, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736099564436790, "dur":510, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736099564437326, "dur":3511, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736099564440839, "dur":66700, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736099564507714, "dur":516, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1736099564436872, "dur":3972, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736099564440845, "dur":565, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736099564441415, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736099564441642, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736099564441706, "dur":191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736099564441897, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736099564441981, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736099564442154, "dur":314, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736099564441478, "dur":1006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/LinuxPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1736099564442680, "dur":64083, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/LinuxPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1736099564507259, "dur":187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"starship-survivor-build-linux_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1736099564436903, "dur":3947, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736099564440851, "dur":252, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736099564441103, "dur":326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736099564441430, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1736099564441591, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736099564441701, "dur":327, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736099564442040, "dur":133, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736099564442174, "dur":65304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736099564436935, "dur":3921, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736099564440858, "dur":221, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441080, "dur":340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441426, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441423, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441478, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441613, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441690, "dur":56, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441749, "dur":144, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441908, "dur":72, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
+,{ "pid":12345, "tid":3, "ts":1736099564441997, "dur":108, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736099564442106, "dur":363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736099564442106, "dur":364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736099564442477, "dur":65005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736099564436966, "dur":3896, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736099564440863, "dur":271, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736099564441134, "dur":281, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736099564441428, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736099564441611, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736099564441695, "dur":133, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736099564441838, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736099564441928, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles UnityPlayer.so" }}
+,{ "pid":12345, "tid":4, "ts":1736099564442079, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736099564442079, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736099564442209, "dur":65271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736099564437001, "dur":3865, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736099564440868, "dur":261, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441130, "dur":302, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441435, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441433, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441551, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441654, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441730, "dur":148, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441881, "dur":69, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441950, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736099564441950, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736099564442262, "dur":267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"starship-survivor-build-linux_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736099564442532, "dur":64973, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736099564437033, "dur":3842, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736099564440877, "dur":204, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736099564441081, "dur":331, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736099564441424, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736099564441594, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736099564441705, "dur":74, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736099564441816, "dur":138, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736099564441961, "dur":61, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1736099564442056, "dur":143, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736099564442199, "dur":65288, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736099564437058, "dur":3823, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736099564440882, "dur":241, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736099564441123, "dur":307, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736099564441430, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1736099564441576, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736099564441713, "dur":322, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1736099564442043, "dur":136, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736099564442180, "dur":65333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736099564437092, "dur":3794, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736099564440888, "dur":244, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736099564441132, "dur":279, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736099564441426, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":8, "ts":1736099564441511, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736099564441651, "dur":134, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736099564441796, "dur":134, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736099564441935, "dur":255, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux.x86_64" }}
+,{ "pid":12345, "tid":8, "ts":1736099564442191, "dur":65341, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736099564437121, "dur":3770, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736099564440892, "dur":191, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441083, "dur":351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441436, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441434, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441553, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441646, "dur":163, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441825, "dur":72, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441900, "dur":69, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736099564441976, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1736099564442091, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736099564442091, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736099564442279, "dur":65202, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736099564437151, "dur":3746, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736099564440897, "dur":521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736099564441426, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736099564441419, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736099564441480, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736099564441603, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736099564441685, "dur":251, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736099564441951, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1736099564442022, "dur":124, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736099564442147, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736099564442147, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736099564442241, "dur":65262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736099564437183, "dur":3722, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736099564440906, "dur":510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736099564441417, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1736099564441470, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736099564441659, "dur":93, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":11, "ts":1736099564441776, "dur":65, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1736099564441850, "dur":245, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1736099564442096, "dur":91, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1736099564442096, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1736099564442195, "dur":65297, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736099564437207, "dur":3705, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736099564440912, "dur":511, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736099564441472, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736099564441723, "dur":78, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736099564441805, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736099564441894, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736099564441985, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736099564442057, "dur":149, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736099564442207, "dur":65342, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1736099564437242, "dur":3677, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1736099564440919, "dur":507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1736099564441432, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1736099564441429, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1736099564441596, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1736099564441683, "dur":171, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1736099564441870, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":13, "ts":1736099564441948, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/config" }}
+,{ "pid":12345, "tid":13, "ts":1736099564442018, "dur":122, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1736099564442144, "dur":69, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1736099564442213, "dur":65283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1736099564437265, "dur":3661, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1736099564440926, "dur":491, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1736099564441424, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1736099564441419, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1736099564441479, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1736099564441637, "dur":268, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1736099564441915, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1736099564441998, "dur":116, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1736099564442115, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Tlchargements/UNITY/Starship-Survivor/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":14, "ts":1736099564442115, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":14, "ts":1736099564442239, "dur":65260, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1736099564437310, "dur":3623, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1736099564440933, "dur":500, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1736099564441437, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1736099564441433, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1736099564441558, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1736099564441736, "dur":150, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/level0.resS" }}
+,{ "pid":12345, "tid":15, "ts":1736099564441890, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":15, "ts":1736099564441963, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1736099564442035, "dur":130, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1736099564442165, "dur":65324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1736099564437325, "dur":3612, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1736099564440938, "dur":482, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1736099564441424, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/mathieu/Unity/Hub/Editor/2022.3.36f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1736099564441421, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1736099564441479, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1736099564441642, "dur":97, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1736099564441742, "dur":77, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1736099564441827, "dur":138, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1736099564441971, "dur":185, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles starship-survivor-build-linux_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1736099564442156, "dur":65330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736099564510198, "dur":137, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 38493, "tid": 93, "ts": 1736099564510601, "dur": 99706, "ph": "X", "name": "Wait for external events", "args": {"First to finish": "backend1.traceevents"} },
+{ "pid": 38493, "tid": 93, "ts": 1736099564610354, "dur": 324, "ph": "X", "name": "backend1.traceevents", "args": {} },
+{ "pid": 38493, "tid": 93, "ts": 1736099564510273, "dur": 100432, "ph": "X", "name": "Write chrome-trace events", "args": {} },

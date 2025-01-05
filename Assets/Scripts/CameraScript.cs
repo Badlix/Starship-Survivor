@@ -24,10 +24,6 @@ public class Player_camera : MonoBehaviour
         float mousX = Input.GetAxisRaw("Mouse X") * Time.deltaTime * sensX;
         float mousY = Input.GetAxisRaw("Mouse Y") * Time.deltaTime * sensY;
 
-        // Mouvement avec le joystick droit
-        float joystickX = Input.GetAxis("RightStickHorizontal") * Time.deltaTime * sensX;
-        float joystickY = Input.GetAxis("RightStickVertical") * Time.deltaTime * sensY;
-
         yRotation += mousX;
         xRotation -= mousY;
         xRotation = Mathf.Clamp(xRotation, -90f, 90f);

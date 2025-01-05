@@ -29,6 +29,8 @@ public class KeyInput : MonoBehaviour
     [Header("Keybinds")]
     public KeyCode jumpKey = KeyCode.Space;
     public KeyCode atkKey = KeyCode.Mouse0;
+    public KeyCode jumpKeyGameController = KeyCode.JoystickButton1;
+    public KeyCode atkKeyGameController = KeyCode.JoystickButton0;
 
     [Header("Ground Check")]
     public LayerMask ground;
@@ -70,6 +72,13 @@ public class KeyInput : MonoBehaviour
         if (isDead && animationIsNotPlaying("Die"))
         {
             Die();
+        }
+        else
+        {
+            if (rb.position.y < -10)
+            {
+                Die();
+            }
         }
 
         if (isDead) return;
@@ -126,18 +135,25 @@ public class KeyInput : MonoBehaviour
         horizontalInput = Input.GetAxisRaw("Horizontal");
         verticalInput = Input.GetAxisRaw("Vertical");
 
-        if (Input.GetKey(jumpKey) && readyToJump && grounded)
+        if (Input.GetKey(jumpKey) || Input.GetKey(jumpKeyGameController))
         {
-            readyToJump = false;
+            if (readyToJump && grounded)
+            {
+                readyToJump = false;
 
-            Jump();
+                Jump();
 
-            Invoke(nameof(ResetJump), jumpCooldown);
+                Invoke(nameof(ResetJump), jumpCooldown);
+            }
         }
-        if (Input.GetKey(atkKey) && grounded && hasWeapon && animationIsNotPlaying("Attack"))
+
+        if (Input.GetKey(atkKey) || Input.GetKey(atkKeyGameController))
         {
-            playAnimation("AttackTrigger");
-            audioSource.PlayOneShot(lightSaberAudio);
+            if (grounded && hasWeapon && animationIsNotPlaying("Attack"))
+            {
+                playAnimation("AttackTrigger");
+                audioSource.PlayOneShot(lightSaberAudio);
+            }
         }
     }
 
