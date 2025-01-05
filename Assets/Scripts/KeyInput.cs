@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class KeyInput : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class KeyInput : MonoBehaviour
     private int damage = 50;
     private bool isDead = false;
     public float playerHeight;
+    public Image healtBar;
 
     [Header("Character items")]
     public bool hasKey = false;
@@ -232,6 +234,7 @@ public class KeyInput : MonoBehaviour
 
         audioSource.PlayOneShot(hurtAudio);
         health -= damage;
+        healtBar.fillAmount = health / 100f;
         if (health <= 0)
         {
             Die();
